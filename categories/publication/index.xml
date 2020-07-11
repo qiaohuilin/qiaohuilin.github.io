@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publication on Qiaohui(Chelsea) Lin</title>
+    <link>/categories/publication/</link>
+    <description>Recent content in publication on Qiaohui(Chelsea) Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="/categories/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Experience</title>
+      <link>/experience/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/experience/</guid>
+      <description> Applied Scientist at Amazon (Summer Internship 2020)  Machine Learning Team on Delivery Experience.   Data Scientist at Expedia Group (Summer Internship 2019)  Search Team on ranking of Vrbo.   Research Assistant at Duke Clinical Research Institution (Summer 2017)  Research on clinical noshow prediction.    </description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>/publication/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/publication/</guid>
+      <description>Conference Paper  Lin, Qiaohui., Lunde, Robert., &amp;amp; Sarkar, Purnamrita. (2020). On the Theoretical Properties of the Network Jackknife. ICML 2020 (Thirty-seventh International Conference on Machine Learning). Link to pdf on proceedings.icml.cc  Journal Paper  Lin, Qiaohui, Betancourt, Brenda, Goldstein, Ben A., &amp;amp; Steorts, Rebecca. C. (2020). Prediction of appointment no-shows using electronic health records. Journal of Applied Statistics, 47(7), 1220-1234. Link to pdf  </description>
+    </item>
+    
+  </channel>
+</rss>

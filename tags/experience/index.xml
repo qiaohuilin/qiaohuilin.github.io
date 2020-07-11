@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>experience on Qiaohui(Chelsea) Lin</title>
+    <link>/tags/experience/</link>
+    <description>Recent content in experience on Qiaohui(Chelsea) Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Experience</title>
+      <link>/experience/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/experience/</guid>
+      <description> Applied Scientist at Amazon (Summer Internship 2020)  Machine Learning Team on Delivery Experience.   Data Scientist at Expedia Group (Summer Internship 2019)  Search Team on ranking of Vrbo.   Research Assistant at Duke Clinical Research Institution (Summer 2017)  Research on clinical noshow prediction.    </description>
+    </item>
+    
+  </channel>
+</rss>

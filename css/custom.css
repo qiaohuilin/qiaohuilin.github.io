@@ -1,1 +1,7 @@
 /* Add custom CSS here. */
+/* Hyperlink colors */
+a:link {color: #1564B2; text-decoration: underlined}
+a:visited {color: #1564B2; text-decoration: underlined}
+a:active {color: #1564B2; text-decoration: underlined}
+a:hover {color: #BF5700; text-decoration: underlined}
+            
